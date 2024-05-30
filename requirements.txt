@@ -1,0 +1,4 @@
+openai>=0.10.2
+pdf2docx>=0.5.0
+docx2pdf>=0.1.7
+spire-doc>=6.12.9
